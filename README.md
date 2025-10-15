@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring full-stack developer who loves building projects that solve real-world problems. I enjoy working with Android Studio, Firebase, React, and Many more technologies, and I'm always exploring new technologies to improve my skills.<br><br>I’m currently working on projects like:<br><br>Mobile apps with authentication and real-time features<br><br>Systems with database integration<br><br>My goal is to keep learning, collaborating, and creating impactful software that makes a difference.
+I'm an aspiring full-stack developer who loves building projects that solve real-world problems. I enjoy working with Android Studio, Firebase, React, and Many more technologies, and I'm always exploring new technologies to improve my skills.<br><br>I’m currently working on projects like:<br><br>Mobile apps with authentication and real-time features<br><br>Systems with database integration<br><br>My goal is to keep learning, collaborating, and creating impactful software that makes a difference...
 
 
 ## 🌐 Socials:
